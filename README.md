@@ -77,6 +77,18 @@ Sou estudante de Engenharia de Software e estou construindo projetos práticos c
 
 **[📂 Repositório](https://github.com/isawc/unipampa-rpi-2024-grupo-5)**
 
+### UNIPAMPA - RP II 2024.2
+> Projeto acadêmico em Java com foco em POO, testes e evolução incremental
+
+- ☕ Simulação de máquina de bebidas/dispenser
+- 🧪 Testes unitários e de integração
+- ☕ Desenvolvimento em Java
+- 🔁 Evolução em múltiplas versões
+- 🤝 Trabalho em equipe com Git/GitLab
+- 📌 Histórico de commits preservado desde 2024
+
+**[📂 Repositório](https://github.com/isawc/unipampa-rp2-2024-grupo-6)**
+
 ---
 
 ## 🐍 Contribuições
