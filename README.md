@@ -65,13 +65,10 @@ Sou estudante de Engenharia de Software e estou construindo projetos práticos c
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isawc/isawc/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isawc/isawc/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/isawc/isawc/output/github-snake.svg">
-</picture>
+![github contribution snake animation](https://raw.githubusercontent.com/isawc/isawc/output/github-snake.svg)
 
 ---
+
 
 ## 🛠️ Tech Stack
 
