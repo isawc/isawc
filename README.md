@@ -63,6 +63,22 @@ Sou estudante de Engenharia de Software e estou construindo projetos práticos c
 
 ---
 
+## 🎓 Projetos Acadêmicos
+
+### UNIPAMPA - RPI 2024.1
+> Projeto em grupo de Engenharia de Requisitos para uma solução de apoio médico
+
+- 📋 Levantamento e documentação de requisitos
+- 🧩 Diagramas UML e BPMN
+- 🧪 Casos de teste
+- 🎨 Protótipos de interface
+- 🤝 Trabalho em equipe com Git/GitLab
+- 📌 Histórico de commits preservado desde 2024
+
+**[📂 Repositório](https://github.com/isawc/unipampa-rpi-2024-grupo-5)**
+
+---
+
 ## 🐍 Contribuições
 
 <picture>
