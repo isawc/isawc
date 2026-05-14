@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isaac%20Alvarenga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Python+%7C+FastAPI+%7C+Java+%7C+SQL;Construindo+APIs+reais+em+produ%C3%A7%C3%A3o;FIAP+%7C+Buscando+est%C3%A1gio+em+TI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=760&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Python+%7C+FastAPI+%7C+JavaScript+%7C+SQL;APIs+REST+%7C+IA+%7C+Deploy;FIAP+%7C+Buscando+est%C3%A1gio+em+TI)](https://git.io/typing-svg)
 
 ---
 
@@ -13,17 +13,38 @@ isaac = {
     "location": "São Paulo, Brasil",
     "education": "FIAP - Engenharia de Software",
     "looking_for": "Estágio em Desenvolvimento de Software",
-    "main_stack": ["Python", "FastAPI", "Java", "SQL"],
-    "focus": ["APIs REST", "Backend", "Integrações", "Deploy"],
-    "currently_learning": ["Testes automatizados", "Boas práticas de arquitetura", "Cloud"],
+    "main_stack": ["Python", "FastAPI", "JavaScript", "Java", "SQL"],
+    "focus": ["APIs REST", "Backend", "Integrações com IA", "Deploy"],
+    "currently_learning": ["Testes automatizados", "Arquitetura backend", "Cloud"],
 }
 ```
 
-Sou estudante de Engenharia de Software e estou construindo projetos práticos com foco em backend, APIs REST, autenticação, integração com serviços externos e deploy em produção.
+Sou estudante de Engenharia de Software e estou construindo projetos práticos com foco em backend, APIs REST, autenticação, integração com serviços externos, IA aplicada e deploy em produção.
 
 ---
 
 ## 🚀 Projetos em Produção
+
+### 💸 FinControl IA
+> Plataforma de controle financeiro pessoal com dashboard web, autenticação JWT, IA e bot no Telegram
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/isawc/fincontrol-ia)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/isawc/fincontrol-ia)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://github.com/isawc/fincontrol-ia)
+[![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)](https://github.com/isawc/fincontrol-ia)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fincontrol-ia.vercel.app/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)](https://fincontrol-ia.onrender.com/docs)
+
+- 🔐 Cadastro, login e autenticação com JWT
+- 📊 Dashboard financeiro com saldo, gráfico por categoria e últimas transações
+- 🤖 Registro de receitas e despesas por mensagens em linguagem natural
+- 💬 Bot no Telegram para registrar movimentações pelo chat
+- 🧠 Integração com Groq para interpretação das mensagens financeiras
+- 🌐 Frontend publicado na Vercel e API publicada no Render
+
+**[📂 Repositório](https://github.com/isawc/fincontrol-ia)** · **[🌐 App ao vivo](https://fincontrol-ia.vercel.app/)** · **[📚 Swagger](https://fincontrol-ia.onrender.com/docs)** · **[💬 Bot](https://t.me/IaFinControl_Bot)**
+
+---
 
 ### 🤖 CV Insight API
 > API para análise técnica de currículos em PDF com IA
@@ -94,19 +115,18 @@ Sou estudante de Engenharia de Software e estou construindo projetos práticos c
 ## 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isawc/isawc/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isawc/isawc/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/isawc/isawc/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isawc/isawc/output/github-snake-dark.svg?v=2026-05">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isawc/isawc/output/github-snake.svg?v=2026-05">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/isawc/isawc/output/github-snake-dark.svg?v=2026-05">
 </picture>
 
 ---
-
-
 
 ## 🛠️ Tech Stack
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -125,6 +145,8 @@ Sou estudante de Engenharia de Software e estou construindo projetos práticos c
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
